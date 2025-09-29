@@ -3,7 +3,7 @@
 Fits Varying Threholds Models
 
 Generates results from
-Tutz, G. (2021):  Varying-Thresholds Models: a Flexible Approach to Parametric and Nonparametric Regression
+Tutz, G. (2025):  Varying-Thresholds Models: a Flexible Approach to Parametric and Nonparametric Regression
 
 Programs
 BirthweightAnalysis uses birth weight data
